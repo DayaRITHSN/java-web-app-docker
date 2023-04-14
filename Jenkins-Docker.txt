@@ -1,0 +1,4 @@
+Jenkins integration with the docker
+create a image 
+push to the docker hub
+create another server and run the container using the image
